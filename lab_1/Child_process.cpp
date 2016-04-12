@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#define MAX 1024
+
 
 using namespace std;
 
